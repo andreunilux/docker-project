@@ -1,5 +1,5 @@
 # Use a lightweight Python base image
-FROM python:3.9-alpine
+FROM python:3.9.21-alpine3.21
 
 
 # Copy the requirements and install them
