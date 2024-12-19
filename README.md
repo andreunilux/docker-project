@@ -13,10 +13,10 @@ This project aims to provide you with a docker image that you can run with one c
 ## Installation
 For the specifications you can have a look at the git repository.
 You can directly deploy the CLI games by running:
-'''
+```
 docker pull andre794/my-app:latest
-'''
+```
 and then use:
-'''
+```
 docker run andre794/my-app:latest
-'''
+```
