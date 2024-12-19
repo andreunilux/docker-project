@@ -1,7 +1,7 @@
 # A docker dummy project for my DevOps Course
 
 ## Overview
-This project aims to provide you with a docker image that you can run with one command. It provides you the option to play a collection CLI games (at the moment just 1) 
+This project aims to provide you with a docker image that you can run with one command. It provides you the option to play a collection CLI games (at the moment just 1) and more interesting functionalities.
 
 ## Features
 - Dockerized and integrated with GitHub Actions for CI/CD
