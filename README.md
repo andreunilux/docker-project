@@ -8,7 +8,7 @@ This project aims to provide you with a docker image that you can run with one c
 - the app is written in Python 
 
 ## Requirements
-- Docker 
+- Install Docker 
 
 ## Installation
 For the specifications you can have a look at the git repository.
@@ -18,5 +18,5 @@ docker pull andre794/my-app:latest
 ```
 and then use:
 ```
-docker run andre794/my-app:latest
+docker run -it andre794/my-app:latest
 ```
