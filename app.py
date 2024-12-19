@@ -1,7 +1,10 @@
 import random
 from colorama import Fore, Style
 
-def main():
+
+
+
+def number_guessing_game():
     print(Fore.CYAN + "Welcome to the Number Guessing Game!" + Style.RESET_ALL)
     print(Fore.YELLOW + "I have selected a number between 1 and 100. Can you guess it?" + Style.RESET_ALL)
     
@@ -22,6 +25,21 @@ def main():
                 break
         except ValueError:
             print(Fore.RED + "Please enter a valid number." + Style.RESET_ALL)
+
+
+
+
+def main():
+    number_guessing_game()
+    
+    
+    
+
             
 if __name__ == "__main__":
     main()
+
+
+
+
+

@@ -11,3 +11,5 @@ COPY app.py ./
 
 # Set the default command to run the game
 CMD ["python", "app.py"]
+
+
